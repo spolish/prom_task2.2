@@ -29,3 +29,8 @@ To create a development branch for working on new features, follow these steps:
 2. Create a new branch named development using the following command:
     ```git checkout -b development```
     This command creates a new branch and switches to it.
+
+####For more information on using Git and GitHub, refer to their documentation:
+
+[Git Documentation](https://git-scm.com/doc)
+[GitHub Help](https://docs.github.com/en/github)
